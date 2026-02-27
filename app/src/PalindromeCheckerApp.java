@@ -1,0 +1,10 @@
+public class PalindromeCheckerApp{
+    public static void main(String[] args) {
+        System.out.println("welcome to palindrome checker managment system");
+        System.out.println("version:1.0");
+        System.out.println("system iniialized succesfully");
+    }
+}
+                                                                                                                                                                                                                         c class PalindromeCheckerApp {
+
+
